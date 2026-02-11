@@ -64,7 +64,7 @@
         "human-readable": "^0.2.1",
         "hxz-api": "^1.0.1",
         "jadianime-ts": "^2.0.0",
-        "jimp": "^0.16.1",
+        "jimp": "^0.22.12",
         "jsbarcode": "^3.11.5",
         "jsdom": "^19.0.0",
         "lodash": "^4.17.21",
